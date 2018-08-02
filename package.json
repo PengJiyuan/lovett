@@ -1,0 +1,15 @@
+{
+  "name": "lovett",
+  "version": "1.0.0",
+  "description": "A repo to make my girlfriend happy.",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PengJiyuan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fakeme": "^0.3.1"
+  }
+}
